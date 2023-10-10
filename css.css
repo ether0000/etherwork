@@ -38,7 +38,7 @@
   height:360px;
   display:flex;
   justify-content:center;
-  aligin-items:center;
+  align-items: center;
   background:rgba(255,255,255,0.9);
 }
 
