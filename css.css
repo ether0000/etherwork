@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  }
+.wrap{
+  width:100%;
+  height:100vh;
+  background-image: linear-gradient(to left top, #fa9ed3, #e89fdd, #d4a2e5, #bea4ea, #a6a6eb, #93aff3, #7eb7f7, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
